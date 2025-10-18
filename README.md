@@ -189,12 +189,12 @@ langgraph>=0.2.20
 ---
 ## Outputs of the streamlit app
 
-<img src="app-1.png" alt="Website-Overview" width="800"/>
-<img src="app-2.png" alt="Website-Overview" width="800"/>
-<img src="app-3.png" alt="Website-Overview" width="800"/>
-<img src="app-4.png" alt="Website-Overview" width="800"/>
-<img src="app-5.png" alt="Website-Overview" width="800"/>
-<img src="app-6.png" alt="Website-Overview" width="800"/>
+<img src="/Users/vallisisirasista/Screenshots/app-1.png" alt="Website-Overview" width="800"/>
+<img src="/Users/vallisisirasista/Screenshots/app-2.png" alt="Website-Overview" width="800"/>
+<img src="/Users/vallisisirasista/Screenshots/app-3.png" alt="Website-Overview" width="800"/>
+<img src="/Users/vallisisirasista/Screenshots/app-4.png" alt="Website-Overview" width="800"/>
+<img src="/Users/vallisisirasista/Screenshots/app-5.png" alt="Website-Overview" width="800"/>
+<img src="/Users/vallisisirasista/Screenshots/app-6.png" alt="Website-Overview" width="800"/>
 
 
 ## 📄 License
