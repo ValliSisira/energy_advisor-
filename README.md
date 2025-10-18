@@ -189,14 +189,14 @@ langgraph>=0.2.20
 ---
 ## 🖼️ Outputs of the Streamlit App
 
-<p align="center">
+
   <img src="assets/app-1.png" alt="App Screenshot 1" width="800"/>
   <img src="assets/app-2.png" alt="App Screenshot 2" width="800"/>
   <img src="assets/app-3.png" alt="App Screenshot 3" width="800"/>
   <img src="assets/app-4.png" alt="App Screenshot 4" width="800"/>
   <img src="assets/app-5.png" alt="App Screenshot 5" width="800"/>
   <img src="assets/app-6.png" alt="App Screenshot 6" width="800"/>
-</p>
+
 
 
 
