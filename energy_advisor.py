@@ -1,16 +1,8 @@
 """
-Energy Advisor Agent (Houston-focused)
+Energy Advisor Agent 
 LangChain + LangGraph mini-project (2–3 hours)
 
-Patch note: fixed import issue (langchain_openai → langchain_community)
------------------------------------------------------------
-- The previous version crashed with: ModuleNotFoundError: No module named 'langchain_openai'.
-- This update replaces it with a safe fallback import using `langchain_community.chat_models.ChatOpenAI`, which works in most environments.
-- Added a try/except import guard to allow running even if the OpenAI wrapper isn't installed.
-- If all LLM imports fail, the script will auto‑switch to `--dry-llm` mode (rule‑based suggestions only).
 
-Quick start
------------
 1) Python 3.10+
 2) pip install -r requirements.txt  (see REQUIREMENTS below)
 3) export OPENAI_API_KEY=... (optional)
@@ -164,7 +156,6 @@ def llm_recommend(state: EnergyState) -> EnergyState:
     ])
     chain = prompt | model
     resp = chain.invoke(kpis)
-# ...existing code...
 
     # Save GPT output
     state["tips"] = resp.content.strip()
