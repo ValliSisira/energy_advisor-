@@ -187,14 +187,17 @@ langgraph>=0.2.20
 - [ ] RAG-based chatbot memory for previous uploads  
 
 ---
-## Outputs of the streamlit app
+## 🖼️ Outputs of the Streamlit App
 
-<img src="/Users/vallisisirasista/Screenshots/app-1.png" alt="Website-Overview" width="800"/>
-<img src="/Users/vallisisirasista/Screenshots/app-2.png" alt="Website-Overview" width="800"/>
-<img src="/Users/vallisisirasista/Screenshots/app-3.png" alt="Website-Overview" width="800"/>
-<img src="/Users/vallisisirasista/Screenshots/app-4.png" alt="Website-Overview" width="800"/>
-<img src="/Users/vallisisirasista/Screenshots/app-5.png" alt="Website-Overview" width="800"/>
-<img src="/Users/vallisisirasista/Screenshots/app-6.png" alt="Website-Overview" width="800"/>
+<p align="center">
+  <img src="assets/app-1.png" alt="App Screenshot 1" width="800"/>
+  <img src="assets/app-2.png" alt="App Screenshot 2" width="800"/>
+  <img src="assets/app-3.png" alt="App Screenshot 3" width="800"/>
+  <img src="assets/app-4.png" alt="App Screenshot 4" width="800"/>
+  <img src="assets/app-5.png" alt="App Screenshot 5" width="800"/>
+  <img src="assets/app-6.png" alt="App Screenshot 6" width="800"/>
+</p>
+
 
 
 ## 📄 License
